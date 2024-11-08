@@ -12,7 +12,7 @@ from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 
 load_dotenv()
-groq_api_key = os.environ["GROQ_API_KEY"]
+groq_api_key = os.environ["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"]
 
 
 def initialize_session_state():
